@@ -36,7 +36,7 @@ jQuery(document).ready(function( $ ) {
   autoDirection: 'prev'
 });
 
-$('.parallax-window').parallax({imageSrc: 'images/wall7.jpg'});
+$('.parallax-window').parallax({imageSrc: 'images/hamburg.png'});
 
 jQuery('#shop-demo').slippry({
   // general elements & wrapper
